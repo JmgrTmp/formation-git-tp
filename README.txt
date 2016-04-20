@@ -1,1 +1,3 @@
 L'agence de voyages Resanet a décidé de lancer le projet "resaroute"...
+
+Les tâches techniques à effectuer sont dans le fichier TODO.txt
