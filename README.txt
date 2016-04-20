@@ -1,3 +1,3 @@
 L'agence de voyages Resanet a décidé de lancer le projet "resaroute"...
 
-Le site est disponible à l'adresse http://www.resanet.com/resaroute/
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/Les tâches techniques à effectuer sont dans le fichier TODO.txt
